@@ -10,7 +10,7 @@
 //////////////////////////////////////////////////////////////////////////
 
 #include "Benchmarks.h"
-
+#if 0
 int main ()
 {
 	const bool ISPRINT(false);
@@ -52,3 +52,4 @@ int main ()
 
 	return 0;
 }
+#endif
